@@ -1,0 +1,2 @@
+C:\source\HSE\fasm\task04\Debug\task04.exe
+C:\source\HSE\fasm\task04\Debug\task04.pdb

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\source\HSE\fasm\task04\Source.cpp(38,19): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода
+  3 of 238 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  task04.vcxproj -> C:\source\HSE\fasm\task04\Release\task04.exe
