@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\source\HSE\fasm\mini_project2\Source.cpp(56,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\source\HSE\fasm\mini_project2\Source.cpp(115,23): warning C4018: <: несоответствие типов со знаком и без знака
+  mini_project2.vcxproj -> C:\source\HSE\fasm\mini_project2\Debug\mini_project2.exe

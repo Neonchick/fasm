@@ -1,0 +1,2 @@
+C:\source\HSE\fasm\mini_project2\Debug\mini_project2.exe
+C:\source\HSE\fasm\mini_project2\Debug\mini_project2.pdb
